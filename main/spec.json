@@ -1,0 +1,17 @@
+{
+  "amwa_id": "BCP-005",
+  "url": "https://specs.amwa.tv/bcp-005",
+  "name": "NMOS Capability Mappings",
+  "status": "Suite",
+  "repo_name": "bcp-005",
+  "alt_repo_name": "nmos-capability-mappings",
+  "repo_url": "https://github.com/AMWA-TV/bcp-005",
+  "default_branch": "main",
+  "show_in_index": false,
+  "intro": {
+    "why_does_it_matter": [
+      "Consistent mappings allow Controllers to reason about endpoint capabilities using NMOS mechanisms.",
+      "The recommendations make technology-specific capabilities discoverable and interoperable without requiring vendor-specific extensions."
+    ]
+  }
+}
