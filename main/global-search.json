@@ -3,20 +3,26 @@
   "repository": "AMWA-TV/bcp-005",
   "documents": [
     {
+      "title": "Page not found",
+      "url": "https://specs.amwa.tv/bcp-005/latest/404/",
+      "text": "Page not found Page not found Page not found - AMWA BCP-005: NMOS Capability Mappings Skip to content Page not found The page you requested could not be found. Return to the documentation home",
+      "repository": "AMWA-TV/bcp-005"
+    },
+    {
       "title": "AMWA BCP-005 NMOS Capability Mappings",
-      "url": "https://specs.amwa.tv/new/bcp-005/latest/Overview/",
+      "url": "https://specs.amwa.tv/bcp-005/latest/Overview/",
       "text": "AMWA BCP-005 NMOS Capability Mappings AMWA BCP-005 NMOS Capability Mappings Introduction Suite documents Overview - AMWA BCP-005: NMOS Capability Mappings Skip to content AMWA BCP-005 NMOS Capability Mappings (c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction The BCP-005 series defines mappings between external capabilities or protection technologies and the NMOS capability model. These recommendations make technology-specific endpoint capabilities discoverable and usable by NMOS Controllers. The suite currently includes: BCP-005-01: NMOS EDID to Receiver Capabilities Mapping describes how EDID information is expressed through Receiver Capabilities. BCP-005-02: NMOS Support for IPMX/HKEP describes support for HDCP over IP streaming using IPMX/HKEP. BCP-005-03: NMOS Support for IPMX/PEP describes support for Privacy-encrypted streaming using IPMX/PEP. The recommendations should be read alongside: BCP-004-01: NMOS Receiver Capabilities BCP-004-02: NMOS Sender Capabilities IS-04: NMOS Discovery and Registration IS-05: NMOS Device Connection Management NMOS Parameter Registers Suite documents Document Scope BCP-005-01 EDID to Receiver Capabilities Mapping BCP-005-02 NMOS Support for IPMX/HKEP BCP-005-03 NMOS Support for IPMX/PEP For the current status of the individual recommendations, see the NMOS Best Common Practices list .",
       "repository": "AMWA-TV/bcp-005"
     },
     {
       "title": "README",
-      "url": "https://specs.amwa.tv/new/bcp-005/latest/images/",
+      "url": "https://specs.amwa.tv/bcp-005/latest/images/",
       "text": "README README README - AMWA BCP-005: NMOS Capability Mappings Skip to content README This directory is for images used in documentation",
       "repository": "AMWA-TV/bcp-005"
     },
     {
       "title": "AMWA BCP-005: NMOS Capability Mappings",
-      "url": "https://specs.amwa.tv/new/bcp-005/latest/",
+      "url": "https://specs.amwa.tv/bcp-005/latest/",
       "text": "AMWA BCP-005: NMOS Capability Mappings AMWA BCP-005: NMOS Capability Mappings What does the suite do? Why does it matter? What are the recommendations? Getting started AMWA BCP-005: NMOS Capability Mappings - AMWA BCP-005: NMOS Capability Mappings Skip to content AMWA BCP-005: NMOS Capability Mappings This repository holds the suite overview for the BCP-005 series of AMWA Best Common Practices, part of the family of Networked Media Open Specifications from the Advanced Media Workflow Association . What does the suite do? The BCP-005 series defines mappings between external capabilities or protection technologies and the NMOS capability model. It describes how NMOS Senders, Receivers, and Controllers declare and use support for specific technologies. Why does it matter? Consistent mappings allow Controllers to reason about endpoint capabilities using NMOS mechanisms. The recommendations make technology-specific capabilities discoverable and interoperable without requiring vendor-specific extensions. What are the recommendations? BCP-005-01: NMOS EDID to Receiver Capabilities Mapping BCP-005-02: NMOS Support for IPMX/HKEP BCP-005-03: NMOS Support for IPMX/PEP Getting started Choose the recommendation for the capability or protection technology being integrated: BCP-005-01 for EDID-to-capability mapping BCP-005-02 for IPMX/HKEP BCP-005-03 for IPMX/PEP There is more information about the NMOS Specifications and their GitHub repositories at https://specs.amwa.tv/nmos .",
       "repository": "AMWA-TV/bcp-005"
     }
