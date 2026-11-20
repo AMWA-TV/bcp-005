@@ -3,12 +3,6 @@
   "repository": "AMWA-TV/bcp-005",
   "documents": [
     {
-      "title": "Page not found",
-      "url": "https://specs.amwa.tv/bcp-005/latest/404/",
-      "text": "Page not found Page not found Page not found - AMWA BCP-005: NMOS Capability Mappings Skip to content Page not found The page you requested could not be found. Return to the documentation home",
-      "repository": "AMWA-TV/bcp-005"
-    },
-    {
       "title": "AMWA BCP-005 NMOS Capability Mappings",
       "url": "https://specs.amwa.tv/bcp-005/latest/Overview/",
       "text": "AMWA BCP-005 NMOS Capability Mappings AMWA BCP-005 NMOS Capability Mappings Introduction Suite documents Overview - AMWA BCP-005: NMOS Capability Mappings Skip to content AMWA BCP-005 NMOS Capability Mappings (c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction The BCP-005 series defines mappings between external capabilities or protection technologies and the NMOS capability model. These recommendations make technology-specific endpoint capabilities discoverable and usable by NMOS Controllers. The suite currently includes: BCP-005-01: NMOS EDID to Receiver Capabilities Mapping describes how EDID information is expressed through Receiver Capabilities. BCP-005-02: NMOS Support for IPMX/HKEP describes support for HDCP over IP streaming using IPMX/HKEP. BCP-005-03: NMOS Support for IPMX/PEP describes support for Privacy-encrypted streaming using IPMX/PEP. The recommendations should be read alongside: BCP-004-01: NMOS Receiver Capabilities BCP-004-02: NMOS Sender Capabilities IS-04: NMOS Discovery and Registration IS-05: NMOS Device Connection Management NMOS Parameter Registers Suite documents Document Scope BCP-005-01 EDID to Receiver Capabilities Mapping BCP-005-02 NMOS Support for IPMX/HKEP BCP-005-03 NMOS Support for IPMX/PEP For the current status of the individual recommendations, see the NMOS Best Common Practices list .",
